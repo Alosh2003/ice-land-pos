@@ -1,0 +1,1 @@
+{"p_idempotency_key":"22222222-2222-2222-2222-222222222222","p_items":[{"product_id":"6ccd44a7-2306-4ef0-b908-24983282e172","qty":2,"unit_price":400,"discount":0}],"p_payments":[{"method":"deferred","amount":800}],"p_order_discount":0,"p_notes":"Credit sale test","p_order_type":"dine_in","p_customer_id":"4d02a224-d80d-48e0-b9b7-a84604399395"}
